@@ -17,8 +17,7 @@ Hệ thống ứng dụng di động tìm nhà trọ là một nền tảng toà
 
 ## Thành viên nhóm
 
-- **Nguyễn Thanh Triều** - [Email](mailto:trieukon1011@gmail.com) - [Github](https://github.com/konnn04/)
-- **Vương Minh Trí** - [Email](mailto:minhtri4724@gmail.com) - [Github]()
+- **Nguyễn Thanh Triều** - [Email](mailto:2251052100quan@ou.edu.vn) - [Github](https://github.com/QiQi-OU-IT/)
 
 
 ---
@@ -95,7 +94,7 @@ rent-house-app/
 
 1. **Clone dự án:**
     ```bash
-    git clone https://github.com/konnn04/rent-house-app.git
+    git clone https://github.com/QiQi-OU-IT/rent-house-app.git
     cd rent-house-app/rent_house_server
     ```
 

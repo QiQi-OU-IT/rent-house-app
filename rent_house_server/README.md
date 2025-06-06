@@ -58,7 +58,7 @@ rent_house_server/
 
 1. **Clone kho lưu trữ:**
     ```bash
-    git clone https://github.com/konnn04/rent-house-app.git
+    git clone https://github.com/QiQi-OU-IT/rent-house-app.git
     cd rent-house-app/rent_house_server
     ```
 
