@@ -17,7 +17,7 @@ Hệ thống ứng dụng di động tìm nhà trọ là một nền tảng toà
 
 ## Thành viên nhóm
 
-- **Nguyễn Thanh Triều** - [Email](mailto:2251052100quan@ou.edu.vn) - [Github](https://github.com/QiQi-OU-IT/)
+- **Lê Việt Hải Quân** - [Email](mailto:2251052100quan@ou.edu.vn) - [Github](https://github.com/QiQi-OU-IT/)
 
 
 ---
